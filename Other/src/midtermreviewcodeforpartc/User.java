@@ -9,7 +9,7 @@ package midtermreviewcodeforpartc;
 /**
  * A class that models a User for Uno Online.
  * The user has a name and a password.
- * @author dancye, 2019
+ * @author Andrei Agetano March 2022
  */
 public class User 
 {

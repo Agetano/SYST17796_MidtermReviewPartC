@@ -1,8 +1,8 @@
 
-package other;
+package MidtermReviewPartC;
 
 
-public class Other {
+public class midtermreviewcodeforpartc {
 
    
     public static void main(String[] args) {
